@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cadabra.iml" filepath="$PROJECT_DIR$/.idea/cadabra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoc-popup.iml" filepath="$PROJECT_DIR$/hoc-popup.iml" />
     </modules>
   </component>
 </project>
